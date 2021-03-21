@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🔭 I’m currently working on my [**blog**](https://coldfusionx.github.io/) to share my learnings with people.
+🔭 Just a Infosec enthusiast working on my [**blog**](https://coldfusionx.github.io/) trying to share my learnings with people.
 
 ---
 
